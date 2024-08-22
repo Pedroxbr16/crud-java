@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "ProjetoProdutos",
+			"path": "."
+		},
+		{
+			"name": "sql",
+			"path": "../sql"
+		}
+	]
+}
